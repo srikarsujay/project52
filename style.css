@@ -1,0 +1,190 @@
+.header {
+
+    background-color: #ff0000; 
+
+}
+*{
+
+    border:lavender;
+
+}
+
+.img {
+
+    background-color: #7fff00;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.text1 {
+
+    background-color: #2600ff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.text2 {
+
+    background-color: #2600ff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.text3 {
+
+    background-color: #2600ff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.make{
+
+    background-color: #ff77e8;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.img2 {
+
+    background-color: #7fff00;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.text4 {
+
+    background-color: #2600ff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.text5 {
+
+    background-color: #2600ff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.text6 {
+
+    background-color: #2600ff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.make2{
+
+    background-color: #ff77e8;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.img3 {
+
+    background-color: #7fff00;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.text7 {
+
+    background-color: #2600ff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.text8 {
+
+    background-color: #2600ff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.text9 {
+
+    background-color: #2600ff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.make3{
+
+    background-color: #ff77e8;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.img4 {
+
+    background-color: #7fff00;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.text10 {
+
+    background-color: #2600ff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.text11 {
+
+    background-color: #2600ff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.text12 {
+
+    background-color: #2600ff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.make4{
+
+    background-color: #ff77e8;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
